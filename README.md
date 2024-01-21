@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Firas Farjallah</h1>
 <h3 align="center">A computer science engineer from Tunisia</h3>
 
-- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **React , Django**
 
